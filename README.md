@@ -41,5 +41,8 @@ Python, PyMuPDF, sentence-transformers (bge-small), FAISS, rank_bm25, cross-enco
 - Matching is page-based. English only. Scanned PDFs are not supported.
 - Not legal advice.
 
+Demo-Output
+![NyayaBot demo](screenshot.png)
+
 ## Author
 Bipasha Routh
