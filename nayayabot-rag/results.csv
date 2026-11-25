@@ -1,0 +1,5 @@
+method,Hit@5,MRR
+bm25,0.96,0.833
+dense,0.94,0.819
+hybrid,0.98,0.833
+hybrid_rerank,1.0,0.932
