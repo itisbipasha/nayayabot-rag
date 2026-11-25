@@ -42,4 +42,4 @@ Python, PyMuPDF, sentence-transformers (bge-small), FAISS, rank_bm25, cross-enco
 - Not legal advice.
 
 ## Author
-Your Name | your LinkedIn link
+Bipasha Routh
