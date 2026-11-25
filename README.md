@@ -42,7 +42,7 @@ Python, PyMuPDF, sentence-transformers (bge-small), FAISS, rank_bm25, cross-enco
 - Not legal advice.
 
 Demo-Output
-![NyayaBot demo](screenshot.png)
+![NyayaBot Demo](screenshot.png)
 
 ## Author
 Bipasha Routh
